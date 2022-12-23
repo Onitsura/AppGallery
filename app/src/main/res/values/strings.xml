@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppGallery</string>
+    <string name="camera">Open Cam</string>
+    <string name="gallery">Open Gallery</string>
+</resources>
